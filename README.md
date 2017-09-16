@@ -1,0 +1,1 @@
+# Codility test solutions
