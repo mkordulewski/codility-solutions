@@ -1,4 +1,4 @@
-package pl.kordulewski.codility.task_00;
+package pl.kordulewski.codility.lesson_00_demo_task;
 
 /**
  * Bez użycia typów zewnętrznych, bez instrukcji importu.

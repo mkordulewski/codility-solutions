@@ -26,4 +26,4 @@
  expected worst-case space complexity is O(N), beyond input storage (not counting the storage required for input arguments).
  Elements of input arrays can be modified.
  */
-package pl.kordulewski.codility.task_00;
+package pl.kordulewski.codility.lesson_00_demo_task;

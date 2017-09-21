@@ -1,4 +1,4 @@
-package pl.kordulewski.codility.task_00;
+package pl.kordulewski.codility.lesson_00_demo_task;
 
 import org.junit.Assert;
 import org.junit.Test;

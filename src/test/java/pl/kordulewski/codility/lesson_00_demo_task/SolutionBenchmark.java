@@ -1,4 +1,4 @@
-package pl.kordulewski.codility.task_00;
+package pl.kordulewski.codility.lesson_00_demo_task;
 
 import com.carrotsearch.junitbenchmarks.AbstractBenchmark;
 import com.carrotsearch.junitbenchmarks.BenchmarkOptions;
