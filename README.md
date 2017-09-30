@@ -19,3 +19,4 @@ Tests
 * https://codility.com/programmers/lessons/4-counting_elements/max_counters/
 * https://codility.com/programmers/lessons/5-prefix_sums/count_div/
 * https://codility.com/programmers/lessons/5-prefix_sums/passing_cars/
+* https://codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/
