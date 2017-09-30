@@ -15,3 +15,4 @@ Tests
 * https://codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/
 * https://codility.com/programmers/lessons/4-counting_elements/perm_check/
 * https://codility.com/programmers/lessons/4-counting_elements/frog_river_one/
+* https://codility.com/programmers/lessons/4-counting_elements/missing_integer/
