@@ -27,3 +27,4 @@ Tests
 * https://codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/
 * https://codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/
 * https://codility.com/programmers/lessons/7-stacks_and_queues/brackets/
+* https://codility.com/programmers/lessons/7-stacks_and_queues/nesting/
