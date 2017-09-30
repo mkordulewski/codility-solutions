@@ -21,3 +21,4 @@ Tests
 * https://codility.com/programmers/lessons/5-prefix_sums/passing_cars/
 * https://codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/
 * https://codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/
+* https://codility.com/programmers/lessons/6-sorting/distinct/
