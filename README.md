@@ -24,3 +24,4 @@ Tests
 * https://codility.com/programmers/lessons/6-sorting/distinct/
 * https://codility.com/programmers/lessons/6-sorting/triangle/
 * https://codility.com/programmers/lessons/6-sorting/max_product_of_three/
+* https://codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/
