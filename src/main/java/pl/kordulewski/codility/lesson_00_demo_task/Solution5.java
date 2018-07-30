@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * Test Score: 55% (free evaluation report)
+ */
 public class Solution5 implements SolutionInterface {
     public int solution(int[] A) {
         Arrays.sort(A);

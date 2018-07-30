@@ -1,7 +1,9 @@
 package pl.kordulewski.codility.lesson_00_demo_task;
 
 /**
- * Bez użycia typów zewnętrznych, bez instrukcji importu.
+ * Test Score: 100% (free evaluation report)
+ *
+ * No import statement.
  */
 public class Solution6 implements SolutionInterface {
     public int solution(int[] A) {

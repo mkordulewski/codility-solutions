@@ -2,6 +2,9 @@ package pl.kordulewski.codility.lesson_00_demo_task;
 
 import java.util.Arrays;
 
+/**
+ * Test Score: 100% (free evaluation report)
+ */
 public class Solution4 implements SolutionInterface {
     public int solution(int[] A) {
         Arrays.sort(A);
